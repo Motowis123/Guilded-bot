@@ -1,0 +1,2 @@
+# Guilded-bot
+READ THE README IN ZIP
